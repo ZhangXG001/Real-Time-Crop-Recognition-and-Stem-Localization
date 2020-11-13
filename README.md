@@ -1,6 +1,6 @@
 # A Unified Model for Real-Time Crop Recognition and Stem Localization Exploiting Cross-Task Feature Fusion
 
-![IMAGE](https://github.com/ZhangXG001/Real-Time-Crop-Recognition/blob/master/IMG/network.jpg)
+![IMAGE](https://github.com/ZhangXG001/Real-Time-Crop-Recognition-and-Stem-Localization/blob/master/IMG/network.jpg)
 
 ## Datesets
 
