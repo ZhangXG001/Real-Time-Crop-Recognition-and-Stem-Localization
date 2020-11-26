@@ -5,7 +5,7 @@
 ## Datesets
 
 We provide our CWF-788 dataset with two different labels(segmentation and stem-localization),baidu disk link https://pan.baidu.com/s/19_r_Xkgz4y6271n7sCdGHw 
-code：1111 
+password：1111 
 ## Usage
 
 Please install Tensorflow and required packages first.
